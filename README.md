@@ -18,7 +18,11 @@ python -m venv .venv
 
 将这个文件夹的全部内容（包括 `.streamlit/config.toml`）放到你的 GitHub 仓库。登录 Streamlit Community Cloud，创建应用，选择仓库、分支和 `app.py`，选择 Python 3.12 后部署。若文件夹保留在仓库子目录中，入口填写该子目录下的 `app.py` 路径，依赖文件保持与入口同目录。
 
-没有在本次交付中创建公网部署或 GitHub 仓库。部署说明：https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy
+公网应用：https://qqq-513300-dashboard.streamlit.app/
+
+代码仓库：https://github.com/LHY116001/qqq-513300-dashboard
+
+部署说明：https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy
 
 ## 信号与时间
 
